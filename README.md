@@ -4,4 +4,4 @@ Utilized the tools you see in there as well as others such as
 
 `aquatone, Sublist3r, Burp Suite, dirsearch etc.`
 
-In addition, `browse_urls.py` and `hashcrack.py` are a couple scripts I wrote. One for more quickly navigating through urls and annotating/flagging them, the other to perform some simple hashing enumeration.
+In addition, `browse_urls.py` and `hashcrack.py` are a couple scripts I wrote. One to allow for faster navigation through a list of urls and annotating/flagging them. The other to perform some simple hashing enumeration.
